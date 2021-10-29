@@ -1,0 +1,109 @@
+
+
+@media only screen and (max-width:1920px){/ STYLES GO HERE /}
+@media only screen and (max-width:1600px){/ STYLES GO HERE /}
+@media only screen and (max-width:1440px){/ STYLES GO HERE /}
+@media only screen and (max-width:1366px){
+	.workflow ul li {
+		width: 20%;
+	}
+}
+@media only screen and (max-width: 1280px){
+	/*.navbar .navbar-nav .nav-link{margin-right: 60px;}*/
+	.swiper-wrapper{height: 700px;}
+}
+@media only screen and (max-width: 1199px){/ STYLES GO HERE /}
+@media only screen and (max-width: 1024px){/ STYLES GO HERE /}
+@media only screen and (max-width: 991px){
+	.workflow ul li {
+	    width: 33.3%;
+	}
+	.slicknav_menu {
+	    display: block;
+	    position: absolute;
+	    right: 0px;
+	    top: 30px;
+	    width: 100%;
+	    display: inline-block;
+	    z-index: 99;
+	}
+	.slicknav_nav li:last-child {display: none;}
+	.header .topbar {
+    	padding: 15px 0;
+	}
+	.topbar .social-block a i{
+		line-height: 35px;
+	}
+	.topbar .social-block a{
+		width:35px;
+		height:35px;
+	}
+	.header.default .container .address {
+	    margin-left: 6rem;
+	    order: 2;
+	}
+	.header.default .container .social-block {
+	    order: 3;
+	    margin-left: 1rem;
+	}
+	.topbar .container {
+	    justify-content: flex-start;
+	}
+	header.header.sticky-top .slicknav_menu {
+	    top: 0;
+	    background-color: #ffff;
+	    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+	}
+	header.header.sticky-top .slicknav_menu ul.slicknav_nav {
+	    top: 50px;
+	}
+	header.header.sticky-top .slicknav_menu .slicknav_btn {
+	    margin: 10px;
+	}
+	.service-wrap img {
+	    width: 35%;
+	}
+	.service-wrap {
+	    display: inherit;
+	}
+	.service-section .service {
+	    height: 430px;
+	    text-align: center;
+	}
+	.swiper-wrapper{height: 500px;}
+}
+@media only screen and (max-width: 767px){
+	.address{display: none;}
+	.header.default .container .social-block {
+	    margin-left: 8rem;
+	}
+	.workflow ul li {
+	    width: 50%;
+	}
+}
+@media only screen and (max-width: 580px){
+	.workflow ul li {
+	    width: 100%;
+	}
+	.slicknav_btn {
+	    margin: 6px 6px;
+	}
+	.slicknav_menu {
+	    top: 20px;
+	}
+	.header.default .container .social-block {
+	   display: none;
+	}
+	.logo img{width:180px;}
+	
+	.logo {
+	    display: inline-block !important;
+	    z-index: 99;
+	    width: 50%;
+	}
+}
+@media only screen and (max-width : 475px){/ STYLES GO HERE /}
+@media only screen and (max-width : 414px){/ STYLES GO HERE /}
+@media only screen and (max-width : 375px){/ STYLES GO HERE /}
+@media only screen and (max-width : 360px){/ STYLES GO HERE /}
+@media only screen and (max-width : 320px){/ STYLES GO HERE /}
